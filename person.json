@@ -1,0 +1,6 @@
+[
+    {"id":1, "name":"Lorraine","email":"lorraine.beck@example.com","phone":"(960) 86122-1930", "city":"Uberlândia - MG"},
+    {"id":2, "name":"Lorem","email":"loremipsum@mail.com","phone":"(960) 86122-1930", "city":"Uberlândia - MG"},
+    {"id":3, "name":"Dolor","email":"dolor123@example.com","phone":"(960) 86122-1930", "city":"São Paulo - SP"},
+    {"id":4, "name":"Lorraine","email":"lorraine.beck@example.com","phone":"(960) 86122-1930", "city":"Uberlândia - MG"}
+]
