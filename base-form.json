@@ -1,0 +1,1 @@
+{"_beagleComponent_":"beagle=>container","children":[{"_beagleComponent_":"beagle=>textInput","placeholder":"Username"},{"_beagleComponent_":"beagle=>textInput","placeholder":"Password"},{"_beagleComponent_":"beagle=>button","text":"Login"}]}
